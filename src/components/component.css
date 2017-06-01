@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    text-align: center;
+}
+
+#count {
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+    padding-bottom: 15px;
+    margin: 0 auto;
+}
